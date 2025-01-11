@@ -1,0 +1,9 @@
+name: macro_testing
+description: A new Dart project.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+dependencies:
+  classy: ^0.2.0
+
